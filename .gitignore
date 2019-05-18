@@ -9,9 +9,18 @@ hs_err_pid*
 
 *.class
 *.log
+*.xml
+*.css
+*.xml.properties
+*.xsl
 
+
+1_func_prog_principles_scala/recfun/project/target/streams/*
+1_func_prog_principles_scala/recfun/target/streams/*
+
+/$global/
 # sbt specific
-.cache
+*.cache
 .history
 .lib/
 dist/*
