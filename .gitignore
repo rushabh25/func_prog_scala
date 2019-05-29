@@ -14,9 +14,18 @@ hs_err_pid*
 *.xml.properties
 *.xsl
 
-
 1_func_prog_principles_scala/recfun/project/target/streams/*
 1_func_prog_principles_scala/recfun/target/streams/*
+1_func_prog_principles_scala/recfun/project/*
+1_func_prog_principles_scala/recfun/target/*
+
+1_func_prog_principles_scala/funsets/target/*
+1_func_prog_principles_scala/funsets/project/target/streams/*
+1_func_prog_principles_scala/funsets/target/streams/*
+1_func_prog_principles_scala/funsets/project/*
+
+project/target/streams
+target/streams
 
 /$global/
 # sbt specific
