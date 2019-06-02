@@ -24,6 +24,11 @@ hs_err_pid*
 1_func_prog_principles_scala/funsets/target/streams/*
 1_func_prog_principles_scala/funsets/project/*
 
+1_func_prog_principles_scala/objsets/target/*
+1_func_prog_principles_scala/objsets/project/target/streams/*
+1_func_prog_principles_scala/objsets/target/streams/*
+1_func_prog_principles_scala/objsets/project/*
+
 project/target/streams
 target/streams
 
