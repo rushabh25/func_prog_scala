@@ -4,6 +4,7 @@
 .idea
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+**/target/**
 
 #### scala ####
 
@@ -13,40 +14,6 @@ hs_err_pid*
 *.css
 *.xml.properties
 *.xsl
-
-1_func_prog_principles_scala/recfun/project/target/streams/*
-1_func_prog_principles_scala/recfun/target/streams/*
-1_func_prog_principles_scala/recfun/project/*
-1_func_prog_principles_scala/recfun/target/*
-
-1_func_prog_principles_scala/funsets/target/*
-1_func_prog_principles_scala/funsets/project/target/streams/*
-1_func_prog_principles_scala/funsets/target/streams/*
-1_func_prog_principles_scala/funsets/project/*
-
-1_func_prog_principles_scala/objsets/target/*
-1_func_prog_principles_scala/objsets/project/target/streams/*
-1_func_prog_principles_scala/objsets/target/streams/*
-1_func_prog_principles_scala/objsets/project/*
-
-project/target/streams
-target/streams
-
-/$global/
-# sbt specific
-*.cache
-.history
-.lib/
-dist/*
-!target/
-target/*
-!target/api
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-project/project/
-project/target
 
 # Scala-IDE specific
 .scala_dependencies
